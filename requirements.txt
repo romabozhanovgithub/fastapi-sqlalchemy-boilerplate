@@ -1,4 +1,5 @@
 fastapi
+black
 flake8
 uvicorn
 mypy
@@ -6,8 +7,6 @@ pytest
 pytest-asyncio
 SQLAlchemy
 alembic
-psycopg2
-asyncpg
 starlette
 pydantic
 PyJWT
